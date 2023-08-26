@@ -19,7 +19,7 @@
 }
 #startBtn {
     position: fixed;
-    left: 45%;
+    left: 47vw;
     top: 25%;
     font-family: "Permanent Marker", cursive;
     font-size: 22px;
@@ -31,7 +31,7 @@
 }
 #startDisplay {
     position: fixed;
-    left: 38%;
+    left: 44vw;
     top: 15%;
     font-family: "consolas", monospace;
     font-size: 40px;
